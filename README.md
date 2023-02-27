@@ -1,2 +1,2 @@
-# QuanX-icons-ForSelfUse
-补充自用 QuantumultX 策略组彩色图标。
+# Filter-Icons
+补充自用策略组彩色图标。
